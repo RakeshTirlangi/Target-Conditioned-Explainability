@@ -1,0 +1,693 @@
+gt_target,ESS,CED,TFR
+route to be taken,0.0,0.987,1.0
+expense of eating out,0.0181,0.9813,0.6
+not correcting someone's spelling,0.0324,0.9763,0.8667
+the status of teachers,0.0315,0.9723,0.6667
+separate state and religion,0.0287,0.9695,0.4667
+bias of high class people,0.0313,0.9537,0.8
+climate change is a concern,0.0041,0.9528,0.7484
+is real,0.0199,0.9481,0.2
+a harmful monopoly,0.0282,0.928,0.6667
+oversight of internet addresses,0.037,0.9164,0.9333
+homeschool,0.0281,0.9094,0.8667
+ruth bader ginsberg,0.0265,0.9062,0.6
+complete privacy for children,0.0316,0.8962,0.5333
+interfering with the middle east,0.0234,0.8848,0.4
+trying to be liked,0.0312,0.8729,0.8667
+merger of disney and fox,0.0002,0.8621,0.9333
+"what defines ""rock & roll?""",0.0,0.8512,0.3333
+u.s. influence in middle-east,0.0144,0.8488,0.9333
+sports program in undergraduate schools,0.0201,0.8397,0.4667
+masculinity,0.0,0.8362,0.2
+a bad deal for cities and states,0.0212,0.8348,0.95
+a way to sell what was once free,0.0139,0.8322,0.9333
+economic disparity,0.0197,0.8209,0.4
+the rituals of adult life,0.0211,0.8144,0.7
+age of childbirth,0.0,0.8138,0.2667
+government taling money from education,0.0307,0.7988,0.8
+prostitution,0.0223,0.7973,0.5333
+diplomatic relations,0.0148,0.7941,0.2667
+the a.d.h.d. diagnosis,0.0108,0.7915,0.8667
+queen elizabeth ii,0.0201,0.7913,0.6667
+religion,0.0,0.788,0.1667
+grade,0.0,0.782,0.1333
+benefits of being bi-lingual,0.0161,0.7804,0.6667
+relationships on the internet.,0.0162,0.778,0.7333
+it doesn't mention college,0.0,0.7758,0.5333
+dealing with difficult countries,0.0301,0.7718,0.7333
+current state of affairs,0.0183,0.7715,0.4
+a place at the table,0.0192,0.7711,0.5778
+choice,0.0264,0.7686,0.2
+rock hall of fame,0.0299,0.7617,0.4
+machine,0.0155,0.7546,0.8
+european union,0.0153,0.7505,0.6
+the new apps,0.011,0.7463,0.3667
+religion in science,0.0287,0.7352,0.4
+street style,0.0247,0.7306,0.3333
+socializing without technology,0.0081,0.7243,0.4
+women in a relationship,0.0128,0.7209,0.4667
+a useful excercise for college students,0.0144,0.7187,0.7667
+israeli national boundaries,0.0132,0.7167,0.4
+segregation in co-ed schools,0.0115,0.7163,0.4
+proof of identification,0.0199,0.7156,0.4
+a modern family,0.0223,0.7091,0.3333
+"""top 10% plan""",0.0116,0.709,0.2
+a harmful atmosphere for gays,0.0153,0.7083,0.7172
+pre-school,0.0109,0.7076,0.2
+republicans taking over,0.0188,0.7075,0.6667
+opiods,0.0238,0.7039,0.2
+democracy,0.0209,0.7024,0.2667
+the conflict in palestine,0.0146,0.6993,0.5333
+religion in education,0.0143,0.6938,0.4
+professor,0.0291,0.6935,0.4
+election,0.0,0.6907,0.2444
+youth voter turnout,0.0195,0.6904,0.4
+women's universities,0.0164,0.6902,0.4
+matter in an election,0.0064,0.6887,0.8
+college admission practices,0.0115,0.6843,0.2667
+the euro zone,0.0165,0.6776,0.5333
+american politics,0.021,0.674,0.2
+the c.i.a.,0.0143,0.673,0.6464
+big banks,0.0158,0.6725,0.2333
+body cameras,0.0168,0.668,0.2
+mass arms deals,0.0219,0.6677,0.6667
+european countries,0.0,0.6649,0.2
+tall basketball players,0.0183,0.661,0.8
+fraternities and sororities,0.0174,0.6586,0.5333
+farms,0.0198,0.6582,0.3
+abrahamic religions,0.0154,0.6569,0.2667
+nuclear weapons,0.0126,0.6551,0.4
+rock and roll hall of fame,0.0153,0.6512,0.8667
+parental support in education,0.0094,0.6499,0.4667
+national sovereignty,0.0187,0.6493,0.4
+financial systems,0.0,0.6485,0.2
+a tax break,0.018,0.6481,0.4
+regulation/deregulation debate,0.0212,0.6478,0.4
+opinions on religion,0.0,0.6473,0.2667
+addict treatment funding,0.0178,0.6443,0.3333
+childcare,0.0193,0.6443,0.3333
+humane animal husbandry,0.0078,0.6418,0.3333
+medical surgery,0.0057,0.6332,0.2667
+legalization of marijuanua,0.0281,0.6319,0.7333
+declawing cats?,0.0233,0.6302,0.3333
+employer,0.0229,0.6283,0.7333
+government support,0.0188,0.6214,0.5333
+palestine-israel conflict,0.0203,0.6198,0.7
+tayyip erdo������an,0.0227,0.6167,0.3333
+technology,0.0191,0.6136,0.4
+advice about eating well,0.0124,0.6112,0.5143
+new york 's bike lanes,0.0144,0.6106,0.5667
+cost of education,0.0124,0.6095,0.4
+season,0.0143,0.6055,0.6
+taxation practices,0.0062,0.604,0.5333
+laborer,0.0125,0.6025,0.3333
+attention deficit disorder,0.0059,0.5987,0.3333
+business,0.0149,0.5938,0.2333
+difficulty of getting a job,0.0047,0.5925,0.6667
+online medical information,0.0212,0.5922,0.2667
+mandatory in college,0.014,0.5899,0.4381
+manual labor,0.0113,0.5856,0.4667
+academia,0.0081,0.5851,0.5333
+fraud,0.0078,0.5848,0.5333
+addiction,0.0148,0.5689,0.3333
+economy,0.0,0.5673,0.2667
+introvert,0.0089,0.5671,0.2667
+anti-vax,0.0177,0.563,0.3333
+ruth bader ginsburg,0.0129,0.5607,0.4
+fairness,0.0068,0.5607,0.4
+male rights,0.0104,0.5594,0.2667
+teacjers,0.0099,0.5588,0.2667
+governemnt,0.0115,0.5548,0.3333
+none,0.0,0.5543,0.3067
+partisan judges,0.0,0.5533,0.5333
+cherry-picking students,0.0157,0.5532,0.5111
+corporate greed,0.0131,0.5531,0.2
+musicians,0.01,0.553,0.2
+increasing sports difficulty,0.0116,0.551,0.5333
+corporatation,0.0071,0.5492,0.4
+walmarts,0.0153,0.549,0.2
+bankcharges,0.0115,0.5466,0.2667
+mandatory for all children,0.0126,0.5391,0.4889
+evolution,0.017,0.538,0.4667
+cook,0.0,0.537,0.1333
+feminism,0.0106,0.5363,0.2
+the enlightenment,0.0157,0.5361,0.2
+international support for israel,0.007,0.5356,0.4667
+middle eastern conflicts,0.0091,0.5297,0.5333
+communication,0.0124,0.5294,0.4
+parental expectations,0.0111,0.5265,0.3333
+marraige,0.0105,0.5236,0.2667
+american foreign policy,0.0069,0.5214,0.5333
+netanyahu,0.0089,0.5162,0.4
+freedom of isrealis,0.0171,0.5152,0.2
+corruption,0.0168,0.515,0.3333
+war,0.0152,0.5124,0.4
+college students,0.0155,0.506,0.1833
+scholorships,0.008,0.5014,0.4
+multilingual,0.0105,0.5,0.2667
+gay rights,0.0315,0.4992,0.2452
+trump's motivation,0.0041,0.4957,0.3333
+de-clawing,0.0219,0.4943,0.6
+residents,0.0077,0.4934,0.2
+illegal labor,0.0128,0.4886,0.2667
+terrorism,0.0122,0.4865,0.2444
+military intervention(s),0.009,0.4858,0.2667
+architecture,0.0136,0.4836,0.4
+swedan,0.0063,0.4821,0.2
+sport,0.0152,0.4814,0.3
+kids at home,0.0139,0.4776,0.3333
+minor violations,0.0128,0.477,0.3667
+royal couple,0.0176,0.4767,0.2667
+refugees,0.012,0.4756,0.3583
+overcrowded national parks,0.019,0.4748,0.5333
+judge,0.0101,0.4732,0.2
+a partner,0.0098,0.4731,0.4333
+the u.s. embassy,0.0114,0.4724,0.5333
+3-d printing,0.0138,0.4686,0.24
+capitalism,0.009,0.4672,0.4667
+college not free,0.0098,0.4669,0.6
+censorship,0.0128,0.4635,0.3333
+trump,0.0076,0.4624,0.2667
+a gateway drug,0.0124,0.4606,0.2222
+a palestinian state,0.0104,0.4602,0.3333
+populism,0.0175,0.4585,0.5333
+healthier,0.0119,0.4583,0.2533
+carry weapons,0.014,0.4579,0.1333
+travel,0.0049,0.4521,0.2667
+crime,0.0117,0.4499,0.3333
+mideast peace,0.0076,0.4478,0.4
+proper food preparation,0.0095,0.4472,0.5333
+tsa,0.0158,0.4458,0.1333
+childbirth,0.0125,0.4447,0.4
+the bar,0.0105,0.4446,0.2333
+palistine,0.0051,0.4436,0.4
+the upper hand,0.0069,0.4399,0.2667
+working with russia/nato to get freedom,0.0039,0.4395,0.9333
+obesity,0.0123,0.4394,0.35
+right,0.0069,0.4349,0.3333
+a smart investment,0.0071,0.4346,0.35
+enough,0.0123,0.4332,0.2444
+flat-fee dining,0.0049,0.4329,0.2667
+adoption,0.0063,0.4315,0.2
+labour,0.0052,0.4298,0.1333
+islamic laws,0.0143,0.4293,0.1333
+overpriced flights for experience,0.01,0.429,0.4667
+a legitimate threat,0.0077,0.4284,0.2667
+democracies,0.0133,0.4283,0.2667
+homeschooling,0.0103,0.4282,0.3394
+wal-mart,0.0073,0.4275,0.219
+the best way,0.0063,0.4272,0.2267
+assimilation,0.0145,0.4264,0.4667
+the u.s.,0.01,0.424,0.3971
+tfa,0.007,0.4228,0.2476
+brazil,0.0131,0.4221,0.2833
+olympics location,0.0131,0.4207,0.2667
+traffic,0.0162,0.4206,0.4
+individuality,0.0058,0.4193,0.1333
+high meal prices,0.0157,0.4184,0.2667
+immigration reform,0.0125,0.4169,0.3
+america 's fears,0.0122,0.4161,0.4
+selling firearms internationally,0.0135,0.4133,0.4667
+employment,0.0103,0.4109,0.3333
+fees,0.0098,0.4076,0.2267
+criticism of authority,0.0138,0.4062,0.4667
+a threat,0.0068,0.405,0.3333
+the atlantic coast,0.0148,0.4019,0.4667
+profile,0.0119,0.4005,0.1333
+chirstianity,0.0052,0.3981,0.4
+dependency,0.0052,0.3972,0.4
+middle east,0.0117,0.3963,0.2833
+incarceration,0.0152,0.3954,0.1333
+judging obese people,0.0058,0.3944,0.4
+parents ' religious beliefs,0.0093,0.3918,0.2533
+candidate 's spouse,0.0151,0.3917,0.2667
+doping,0.0087,0.3909,0.2889
+speaking out,0.0063,0.3907,0.4
+motherhood,0.0073,0.3898,0.3333
+parent's and other's religious beliefs,0.006,0.3886,1.0
+new york 's,0.0082,0.3884,0.2778
+campus,0.0117,0.3882,0.4667
+self-regulation,0.0057,0.3875,0.3333
+drug addicts,0.0105,0.385,0.2
+vote,0.0086,0.3839,0.3333
+social media,0.0122,0.3822,0.2889
+tax breaks,0.0092,0.3818,0.2333
+corporate owned media,0.0072,0.3813,0.3333
+education requirments,0.0038,0.3809,0.4
+free will,0.0164,0.3792,0.2667
+not vaccinating,0.0162,0.377,0.1333
+high-speed rail,0.01,0.3769,0.24
+billionares,0.0033,0.3763,0.3333
+entitlement,0.0055,0.376,0.4
+beachfront property,0.0134,0.3752,0.2
+alternative enegry,0.0079,0.3734,0.3333
+education,0.0075,0.3732,0.2333
+drive,0.0033,0.3717,0.4667
+nations,0.0116,0.3716,0.3333
+a constitutional right,0.0087,0.371,0.3133
+casinos,0.0068,0.3705,0.2
+mossoff's lack of candidness,0.0057,0.3694,0.7333
+attacks,0.0083,0.3659,0.2286
+non-muslims,0.0097,0.3654,0.3091
+teenagers,0.0099,0.364,0.3333
+bully,0.0085,0.3639,0.1333
+israel,0.0107,0.3637,0.2222
+beachfront home law,0.0102,0.3633,0.3333
+men,0.0001,0.3629,0.6667
+discrimination,0.0077,0.3626,0.2
+parent,0.0061,0.3622,0.2222
+income,0.006,0.3599,0.3
+investment banking,0.0034,0.3584,0.2
+promotion,0.0089,0.3579,0.2
+racial profiling,0.0078,0.3577,0.3333
+mother teresa,0.0087,0.3567,0.1852
+former colonial powers,0.0078,0.3556,0.2267
+banking monopolies,0.0055,0.3553,0.2
+tip,0.0081,0.3539,0.1
+president,0.0085,0.3537,0.2
+violence in the middle east,0.0051,0.3535,0.7333
+isis,0.0047,0.3525,0.2
+taxation policy,0.0072,0.3518,0.4
+police,0.0075,0.351,0.2556
+education innovation,0.0117,0.3507,0.2
+california,0.0082,0.3492,0.325
+cinema,0.005,0.3489,0.2667
+k-12 eduction,0.0045,0.3476,0.3333
+manufacture,0.008,0.3471,0.2
+non-profit,0.0079,0.3471,0.2
+farm,0.0069,0.3468,0.2
+problems with visa,0.0043,0.3468,0.2
+palestinian settlements,0.0045,0.3463,0.4
+money,0.0051,0.3462,0.2667
+opiod treatment,0.0117,0.3459,0.1333
+states' rights,0.0125,0.3458,0.2
+voting youth,0.0098,0.3457,0.1333
+israeli-palestinian conflict,0.006,0.3452,0.2333
+free for everyone,0.0051,0.3443,0.2
+supreme court,0.0091,0.3442,0.2222
+paying for college,0.0097,0.3434,0.2
+electronic dependency,0.012,0.3416,0.2667
+the anti-vaccination movement,0.0036,0.341,0.4
+political opinions,0.0143,0.3391,0.3333
+importance of special education,0.0046,0.3389,0.3333
+young people,0.0086,0.3366,0.1733
+medical care,0.009,0.3326,0.2
+taxation,0.0098,0.3317,0.24
+reality shows,0.0087,0.3317,0.2667
+opinion piece,0.0072,0.3317,0.6
+family structure,0.0088,0.331,0.3333
+misdiagnosis by doctors,0.0099,0.331,0.2667
+telecommuting,0.0054,0.3306,0.3333
+language,0.0081,0.3297,0.4
+obamacare,0.0083,0.3296,0.2744
+homeshooling,0.007,0.3279,0.5333
+pollution,0.0051,0.3276,0.2667
+environmental threat,0.0047,0.3273,0.2
+schoold,0.0065,0.3268,0.1926
+medicare,0.0078,0.3264,0.2667
+multi-citizenship,0.0104,0.3257,0.2
+oympics,0.0113,0.3244,0.2
+government overspending on infrastructure,0.0124,0.3243,0.2
+rate professors,0.0076,0.3243,0.2133
+medicine,0.004,0.324,0.3
+u.s. policing,0.0122,0.3232,0.3333
+transportation,0.0125,0.3208,0.2667
+gentrification,0.0099,0.3207,0.4
+tenure,0.0103,0.3204,0.1905
+presentism,0.0049,0.3197,0.1333
+criminal,0.0113,0.3195,0.3667
+self-centered,0.0096,0.3194,0.2
+fame,0.0049,0.3183,0.4
+publishers,0.0041,0.318,0.2533
+clarity of writing,0.0094,0.3172,0.3333
+experience,0.0063,0.3171,0.2
+propoganda,0.0114,0.3169,0.2
+united states,0.0044,0.3166,0.3333
+hamas-fatah unity,0.0062,0.3165,0.3333
+higher education,0.01,0.3151,0.3333
+economic inequality,0.0083,0.3134,0.3333
+haute cuisine,0.0071,0.3103,0.2667
+grade colleges,0.0074,0.3096,0.1833
+capital gains,0.0083,0.3071,0.2359
+tennis strung,0.0058,0.3068,0.2
+anthropocentricsm,0.0089,0.3064,0.2
+voting,0.0069,0.3057,0.2667
+basketball,0.0078,0.3048,0.2167
+hijabs,0.0073,0.3039,0.1467
+supply and demand,0.0052,0.3038,0.2
+airline industry,0.0056,0.3036,0.2667
+felons,0.0076,0.3032,0.1583
+students,0.0053,0.3023,0.1515
+wv self-regulation,0.0055,0.3016,0.2667
+healthcare,0.0061,0.3007,0.4
+christians,0.0059,0.2997,0.2778
+child education,0.0078,0.2991,0.3333
+african-american,0.0145,0.2991,0.4667
+the threat,0.0043,0.2983,0.2
+comment sections,0.0088,0.2979,0.181
+ghetto,0.005,0.2978,0.2667
+palestine,0.0086,0.2965,0.2296
+gun control,0.0038,0.2964,0.2667
+speech,0.0065,0.2959,0.1926
+elections,0.0082,0.2958,0.1953
+pot,0.0081,0.2956,0.2485
+injustice,0.0118,0.2935,0.4
+"no , the laws",0.0038,0.2932,0.1333
+responsibile marijuana use,0.006,0.2929,0.2667
+colleges,0.006,0.2922,0.225
+lockdown in new york state,0.0008,0.2917,0.7961
+government,0.0053,0.2915,0.175
+dual citizenship,0.0058,0.2868,0.2
+forced displacement,0.0035,0.2867,0.3333
+appoint,0.008,0.2859,0.2
+cameras,0.0066,0.2859,0.1333
+special schools,0.0041,0.2857,0.1333
+productivity,0.006,0.2856,0.2667
+worker,0.016,0.2848,0.4
+states-righters,0.0048,0.2848,0.2
+workplace,0.0068,0.2821,0.2167
+vaccine,0.0076,0.2815,0.219
+volunteerism,0.007,0.2813,0.2
+acceptance of everyone,0.0029,0.2803,0.2667
+european economy,0.0068,0.2796,0.4
+europe,0.0077,0.2764,0.1889
+their children,0.005,0.2762,0.1667
+"""turning the other cheek""",0.0027,0.2757,0.4
+free speech,0.0074,0.2741,0.2222
+legislation,0.0063,0.2741,0.1815
+in-state students,0.0073,0.2733,0.2667
+marriage,0.0051,0.2732,0.3
+the european union,0.0063,0.273,0.2667
+a gamble,0.005,0.2722,0.1867
+automation,0.0052,0.272,0.4
+attacts,0.0062,0.2713,0.15
+globalization,0.008,0.2693,0.2444
+nonprofit status,0.0083,0.2675,0.2267
+modern men,0.0055,0.2667,0.1667
+marijuana,0.0073,0.266,0.1571
+office layout,0.0087,0.2658,0.1667
+kids,0.0052,0.2647,0.1926
+humanities programs,0.0049,0.2646,0.2667
+home-school,0.007,0.2646,0.16
+creationism,0.0136,0.2639,0.1743
+public preschool,0.0078,0.2635,0.1111
+restricted access,0.0071,0.262,0.15
+hijab,0.0051,0.2613,0.2667
+pregnancy,0.0026,0.2613,0.3333
+christianity,0.0072,0.261,0.2
+drilling,0.0055,0.2603,0.2476
+trouble,0.0064,0.2602,0.1733
+people,0.0053,0.2587,0.2
+population,0.0043,0.2583,0.2
+bilingualism,0.009,0.2556,0.5333
+medical websites,0.006,0.2551,0.1765
+sanctions,0.0062,0.2545,0.181
+housing affordability,0.0073,0.2543,0.1333
+college campuses,0.0084,0.2533,0.1333
+overcrowd,0.007,0.2529,0.2333
+volkswagen,0.0046,0.2522,0.2
+genealogy,0.0044,0.2521,0.1333
+blackmail,0.0079,0.2509,0.1333
+wealthy colleges,0.005,0.2505,0.2
+college,0.0046,0.2501,0.1818
+home schoolers,0.0064,0.2491,0.2061
+unpaid intenship,0.0052,0.2484,0.1524
+companies,0.0061,0.2482,0.1714
+privacy,0.0058,0.2477,0.1556
+self-medicate,0.0058,0.2474,0.4
+privatization,0.0074,0.247,0.1429
+current students' attitudes,0.0037,0.2459,0.3333
+states,0.0021,0.2407,0.1333
+respect and dignity,0.0024,0.2394,0.2667
+a problem,0.0055,0.2392,0.1714
+rich people,0.0077,0.2375,0.0667
+religion conflicts,0.005,0.2374,0.2
+same-sex colleges,0.0057,0.2366,0.181
+racism,0.0032,0.2359,0.2
+police officers,0.0068,0.2358,0.1333
+sexism,0.0038,0.235,0.2
+pet,0.0037,0.2349,0.1333
+democrat corruption,0.0085,0.2341,0.2
+vaccination,0.005,0.2341,0.1333
+medical profession,0.0062,0.2338,0.2
+sport leagues,0.0063,0.2335,0.2
+taxation methods,0.0063,0.2334,0.2
+syriaallies,0.0039,0.2333,0.2167
+government funding,0.0041,0.2333,0.2667
+international trade,0.0033,0.2332,0.1333
+home-schoolers,0.0064,0.2331,0.258
+immigration,0.005,0.2331,0.1641
+beachfront homes,0.0061,0.2324,0.15
+prostituion,0.0064,0.2316,0.1911
+royalty,0.006,0.2313,0.1667
+rim,0.0062,0.2312,0.2
+syria,0.0058,0.2312,0.2222
+employment laws,0.0051,0.2311,0.1333
+ultra-conservatism,0.0052,0.2309,0.2
+amazon,0.003,0.2301,0.2667
+standardized tests,0.0025,0.23,0.2
+political correctness,0.0025,0.2299,0.2
+helping condo developers,0.0039,0.2297,0.2444
+isreal,0.0053,0.2292,0.3
+unfairness in taxation,0.0059,0.2292,0.2
+expanding horizons,0.0086,0.2287,0.2
+foreign language classes,0.0053,0.2284,0.2667
+women,0.0044,0.2277,0.1833
+olympics,0.0045,0.2266,0.1778
+greece,0.006,0.2247,0.1067
+malthusianism,0.0032,0.2245,0.2
+computer-generated imagery,0.0051,0.2237,0.2333
+vegetarianism,0.0048,0.2234,0.1778
+multilingualism,0.0034,0.2231,0.3333
+overpopulation,0.0035,0.2217,0.0667
+intelligence,0.0027,0.2216,0.1333
+justice inequality,0.0041,0.2208,0.4
+involved parenting,0.0043,0.2199,0.2
+control,0.0042,0.2198,0.2167
+economists,0.0072,0.2178,0.2333
+jerusalem,0.0061,0.2168,0.2222
+overcrowding,0.0035,0.2162,0.1833
+japanese attendance,0.0074,0.2156,0.2
+workers,0.0044,0.2124,0.1481
+waiter,0.004,0.2121,0.1
+happy hour,0.0066,0.2111,0.1333
+school librarians,0.005,0.2102,0.2333
+arms,0.0038,0.209,0.1556
+female intelligence,0.0044,0.2085,0.1333
+u.s.,0.0052,0.2075,0.3333
+no-tipping,0.0035,0.2073,0.0667
+extreme parenting,0.005,0.206,0.1179
+standardized testing,0.0062,0.204,0.1667
+rgb,0.0051,0.2021,0.2
+animal protein,0.0055,0.202,0.2667
+colorado,0.0032,0.2019,0.1524
+paying gratuities,0.0081,0.2006,0.2
+electric cars,0.0054,0.1999,0.1333
+rich politicans,0.0039,0.1989,0.219
+reparations,0.0067,0.1985,0.0667
+online classes,0.0021,0.1979,0.2667
+police shootings,0.0052,0.1973,0.1333
+exploiting children,0.0032,0.1973,0.0667
+the expense,0.0055,0.1968,0.0889
+in-state collage acceptance,0.004,0.1967,0.4667
+internet addiction,0.0017,0.1966,0.1333
+internet gambling,0.0044,0.1964,0.1333
+fat shaming,0.0039,0.1947,0.0667
+stability,0.0041,0.1945,0.1429
+willful ignorance,0.0101,0.1938,0.2
+public universities,0.0036,0.1928,0.3333
+"""natural"" labeling",0.0061,0.1919,0.2
+conscientious objection,0.0081,0.1917,0.0667
+new employees,0.0047,0.1911,0.1667
+making yourself happy,0.0042,0.191,0.2667
+treatment,0.005,0.1907,0.2
+all immigrants,0.0048,0.1901,0.1333
+democrat,0.0029,0.1901,0.0667
+anti vax,0.0042,0.1901,0.1333
+curriculum,0.0066,0.19,0.2667
+full automation,0.0056,0.1891,0.1333
+affirmative actions,0.0048,0.1891,0.1852
+genetics,0.004,0.189,0.2667
+minimum wage,0.0092,0.1885,0.2667
+climate change,0.0036,0.1873,0.1333
+dangers,0.0045,0.1862,0.0889
+gamble,0.0043,0.1853,0.1333
+guns,0.0046,0.1848,0.2133
+department of defense,0.0024,0.1848,0.3333
+monarchs,0.0082,0.1842,0.1
+bullying/humiliation,0.0049,0.1839,0.2
+greater success,0.0038,0.1837,0.1333
+employee,0.0033,0.1832,0.1667
+parents,0.004,0.1805,0.1
+homebirth,0.002,0.1794,0.2
+improper veganism,0.0077,0.1774,0.0667
+nuclear power,0.006,0.1771,0.1333
+bicyclist,0.0022,0.1745,0.2667
+employmen,0.0068,0.1734,0.2667
+multi lingual,0.0022,0.1727,0.4
+technological advancement,0.0027,0.1723,0.1333
+miss america,0.0042,0.1688,0.1917
+birthright citizenship,0.0051,0.1681,0.1
+substitute teachers,0.0021,0.1667,0.2
+immature,0.0063,0.1662,0.0667
+more harm,0.0025,0.1662,0.1833
+agriculture,0.0027,0.1651,0.1667
+illegal immigration,0.0027,0.1646,0.1
+donation refusal,0.0045,0.1636,0.1333
+court stenographers,0.005,0.1625,0.0667
+machines,0.0039,0.1619,0.1556
+their land,0.0032,0.1588,0.0889
+prostituition,0.0027,0.1571,0.1333
+teching,0.0032,0.1566,0.4667
+hospital births,0.0031,0.1566,0.1333
+slavery,0.0022,0.156,0.1333
+stereotype,0.0033,0.1559,0.1333
+justice ginsberg,0.0033,0.1557,0.1333
+foreign relations,0.0019,0.1548,0.2
+teacher,0.0031,0.1543,0.1333
+culture division,0.0015,0.1541,0.1333
+noncompete deals,0.0035,0.1527,0.15
+frisbee,0.002,0.1526,0.1333
+c-section,0.002,0.1523,0.1333
+airfare prices,0.0055,0.1522,0.1333
+soccer,0.0029,0.1494,0.1333
+nato,0.0044,0.1484,0.1
+patriotism,0.0031,0.1473,0.1333
+the world,0.0045,0.1465,0.1111
+economic policy,0.0022,0.1454,0.2
+u.k,0.0022,0.1447,0.1333
+activism,0.0031,0.1434,0.1333
+recidivism,0.0029,0.1429,0.1333
+emigration,0.0016,0.1427,0.2
+illegals,0.0028,0.1415,0.1333
+income inequality,0.0027,0.1411,0.1333
+weed legallzation,0.0036,0.1399,0.1333
+` starchitects,0.0031,0.1393,0.1556
+ignorance,0.0059,0.1388,0.0667
+casino's,0.0014,0.1379,0.2
+pollings,0.0024,0.1352,0.1143
+internet anonymity,0.0031,0.1343,0.1333
+being financially stable,0.0031,0.1303,0.2
+veganism,0.0027,0.1299,0.1529
+politics,0.0021,0.1284,0.1067
+more advice,0.0029,0.1241,0.1
+public workers,0.0018,0.1225,0.2267
+immigrant,0.0016,0.1215,0.1111
+income equality,0.0018,0.1209,0.1333
+restaurant,0.0021,0.1208,0.0333
+foreign lobbying,0.003,0.12,0.0667
+academic,0.0016,0.1185,0.1333
+atheism,0.001,0.1181,0.2
+co-op accomodations,0.0025,0.1179,0.1333
+modern liberalism,0.0012,0.1175,0.1333
+prohibition,0.0043,0.1168,0.0667
+alternative energy,0.0013,0.1167,0.1333
+human behavior,0.0054,0.1164,0.2
+your cat,0.0024,0.1164,0.1
+migrant,0.0011,0.116,0.1333
+consumers,0.0025,0.116,0.0667
+university,0.0025,0.1155,0.0667
+career aspirations,0.0016,0.1155,0.0667
+resturants,0.0025,0.1152,0.0667
+everyone,0.0022,0.1151,0.0857
+decision making,0.0014,0.1145,0.0667
+mobile devices,0.0019,0.1143,0.0667
+diversity,0.0012,0.114,0.0667
+meat eaters,0.0025,0.114,0.1667
+hypocrisy,0.0028,0.1137,0.0667
+new deal,0.0029,0.1111,0.1333
+state citizenship,0.0047,0.1107,0.1333
+unemployment,0.0022,0.1107,0.0667
+bilingual,0.0025,0.1083,0.0667
+prosperity gospel,0.0014,0.108,0.1333
+technological innovation,0.0027,0.1076,0.0667
+banker,0.0021,0.1071,0.0667
+declaw,0.0043,0.107,0.1333
+librarian,0.0019,0.1069,0.0667
+organic food,0.0057,0.104,0.0667
+newspapers,0.0023,0.1031,0.1111
+internship,0.0019,0.1028,0.0667
+student,0.0046,0.0988,0.0667
+financing shcools,0.0013,0.0976,0.2667
+celebrity,0.0032,0.0961,0.0667
+iran war strategy,0.0019,0.0949,0.2
+social disorder,0.0014,0.0945,0.1333
+lucid dreaming,0.0023,0.0943,0.1333
+danger,0.0018,0.0941,0.2
+reperations,0.0012,0.0926,0.1333
+non-compete agreement,0.0017,0.0922,0.2
+bicycle,0.0011,0.0913,0.1333
+management,0.0011,0.0902,0.1333
+librairans,0.0034,0.0899,0.0667
+not speaking out,0.0016,0.0893,0.0667
+modern parenting,0.0009,0.0879,0.1333
+internet learning,0.0018,0.0877,0.1333
+justice,0.0019,0.0822,0.2
+technology for farming,0.0016,0.0785,0.0667
+legalized prostitution,0.0014,0.0774,0.0667
+advertise,0.001,0.0767,0.1333
+employee rights,0.001,0.076,0.1333
+non-compete agreements,0.0013,0.0758,0.0667
+healthy cooking,0.0011,0.0747,0.0667
+libarians,0.0008,0.0743,0.1333
+fast food,0.0008,0.0739,0.1333
+restaurants,0.0012,0.0736,0.0533
+early motherhood,0.0008,0.0729,0.0667
+renewable energy,0.0018,0.0687,0.1
+bed side manner,0.0015,0.0647,0.1333
+biking feasibility,0.0013,0.0637,0.0667
+closemindedness,0.0033,0.0624,0.0667
+outsource,0.0007,0.0595,0.0667
+eduction,0.0015,0.059,0.0667
+childhood survival,0.0012,0.0526,0.0667
+mandatory vaccinations,0.0023,0.0484,0.0667
+self-control,0.0005,0.0465,0.0667
+bail out,0.0006,0.0453,0.0667
+prozac,0.001,0.0428,0.0333
+politician,0.0007,0.0382,0.0667
+continuing education,0.0007,0.0373,0.0667
+kid,0.0009,0.0326,0.0667
+cyber-predators,0.0006,0.0313,0.0667
+nonmbers,0.0002,0.0123,0.0667
+parental rights,0.0005,0.0015,0.0
+hostility,0.0011,0.0009,0.0
+wwii,0.0003,0.0002,0.0
+culture,0.0002,0.0002,0.0
+teachers,0.0001,0.0002,0.0
+biking rules,0.0004,0.0002,0.1333
+news,0.0002,0.0001,0.0
+immunization,0.0001,0.0001,0.0
+vacation,0.0006,0.0001,0.0
+cities,0.0002,0.0001,0.0
+consumerism,0.0002,0.0001,0.0
+humanitarian aid,0.0002,0.0001,0.0
+grade inflation,0.0001,0.0,0.0
+free tution,0.0001,0.0,0.0
+tiered education,0.0001,0.0,0.0
+america,0.0001,0.0,0.0
+judaism,0.0,0.0,0.0
+children's education,0.0002,0.0,0.0
+vegnism,0.0,0.0,0.0
+wealth,0.0001,0.0,0.0
+traditional values,0.0002,0.0,0.0
+twenty-somethings,0.0,0.0,0.0667
+educational profit,0.0001,0.0,0.0
+refugeees,0.0001,0.0,0.0
+parental responsibility,0.0001,0.0,0.0
+homosexual,0.0,0.0,0.2
+national security,0.0001,0.0,0.0
+islamist,0.0,0.0,0.0
+cycle,0.0001,0.0,0.0
+euro,0.0002,0.0,0.0
+hypothecation,0.0001,0.0,0.0
+hypocrite,0.0002,0.0,0.0
+radical change,0.0,0.0,0.0
+disability awareness,0.0001,0.0,0.0
+kids performance,0.0,0.0,0.0
+libaries,0.0001,0.0,0.0
+subsidation,0.0001,0.0,0.0
+misinformation,0.0001,0.0,0.1
+international relations,0.0001,0.0,0.0
+international adoption,0.0,0.0,0.0
+terrorist,0.0001,0.0,0.0
+adults,0.0001,0.0,0.0
