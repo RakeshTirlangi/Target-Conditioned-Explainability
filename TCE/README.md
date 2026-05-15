@@ -251,7 +251,7 @@ If you use TCE in your research, please cite the paper:
 ```bibtex
 @inproceedings{tce2026,
   title  = {TCE: Quantifying Explanation Stability in Stance Detection via Target-Conditioned Explainability},
-  author = {Tirlangi, Rakesh and Samineni, Bhavani},
+  author = {Bhavani Samineni},
   year   = {2026}
 }
 ```
