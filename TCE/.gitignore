@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Outputs (large model artifacts / generated CSVs / plots)
+outputs/
+runs/
+checkpoints/
+*.pt
+*.bin
+*.safetensors
+
+# Hugging Face cache override
+.cache/
+
+# Logs
+*.log
+logs/
+
+# Plot exports (regenerable)
+plots/*.png
+plots/*.pdf
+!plots/.gitkeep
+
+# OS
+Thumbs.db

@@ -1,0 +1,10 @@
+_base_: default.yaml
+
+experiment:
+  name: "tce_deberta"
+  output_dir: "outputs/deberta"
+
+model:
+  name_or_path: "microsoft/deberta-v3-base"
+  # For reproducing paper results, replace with your fine-tuned checkpoint:
+  # name_or_path: "./checkpoints/deberta-stance"

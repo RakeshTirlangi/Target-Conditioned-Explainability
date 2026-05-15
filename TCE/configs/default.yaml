@@ -1,0 +1,52 @@
+# ────────────────────────────────────────────────────────────────────
+# TCE — Default configuration
+# Model-specific configs inherit from this file via the `_base_` key.
+# ────────────────────────────────────────────────────────────────────
+
+experiment:
+  name: "tce_default"
+  output_dir: "outputs"
+  seed: 42
+
+data:
+  path: "data/cleaned_tweets.csv"
+  sample_size: null              # null = use all rows; e.g. 3000 to sample
+  text_column: "cleaned_tweet"
+  gt_target_column: "GT Target"
+  gt_stance_column: "GT Stance"
+  similar_targets_column: "similar targets"
+  n_similar: 3
+  stance_labels: ["AGAINST", "NONE", "FAVOR"]
+
+model:
+  name_or_path: "microsoft/deberta-v3-base"   # overridden per model
+  max_length: 128
+  batch_size: 16
+  device: "auto"                              # auto | cuda | cpu
+
+shap:
+  max_evals: 50
+  masker_regex: '\W+'
+  n_background_candidates: 15                 # pool size for centroid selection
+  background_size: 1                          # 1 = single centroid; >1 = multi-ref
+
+metrics:
+  top_k: 5                                    # top-k threshold for TFR
+  align_strategy: "pad"                       # pad | truncate
+
+statistics:
+  bootstrap_samples: 1000
+  bootstrap_ci: 0.95
+  significance_alpha: 0.05
+  bonferroni_correction: true
+
+sensitivity:
+  k_values: [3, 5, 10, 20]
+  max_evals_values: [25, 50, 100, 250, 500]
+  background_sizes: [1, 5, 15, 50]
+  sensitivity_sample_size: 500                # smaller subset for sweeps
+
+logging:
+  level: "INFO"
+  log_to_file: true
+  log_file: "tce.log"

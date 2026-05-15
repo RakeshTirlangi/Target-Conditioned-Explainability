@@ -1,0 +1,6 @@
+cleaned_tweet,GT Target,GT Stance,similar targets
+"Climate is changing rapidly and we need to act now.","climate change",FAVOR,"['global warming', 'environmental policy', 'climate crisis']"
+"I do not trust anyone who supports this anymore.","feminist movement",AGAINST,"['feminism', 'women rights', 'gender equality']"
+"There might be something to this but I am not sure.","atheism",NONE,"['religion', 'belief systems', 'faith']"
+"Tax cuts hurt the working class while benefiting the wealthy.","tax reform",AGAINST,"['fiscal policy', 'taxation', 'tax cuts']"
+"Vaccines have saved countless lives over the past century.","vaccination",FAVOR,"['vaccines', 'immunization', 'public health']"

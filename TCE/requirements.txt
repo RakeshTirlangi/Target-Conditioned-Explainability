@@ -1,0 +1,36 @@
+# ──────────────────────────────────────────────────────────────────────
+# TCE — Target-Conditioned Explainability
+# Pinned dependency ranges for reproducibility.
+# Tested with Python 3.9–3.11.
+# ──────────────────────────────────────────────────────────────────────
+
+# Deep learning backbone
+torch>=2.1.0,<2.6.0
+transformers>=4.35.0,<4.50.0
+tokenizers>=0.15.0
+accelerate>=0.25.0
+
+# Explainability
+shap>=0.44.0,<0.46.0
+
+# Numerical / data
+numpy>=1.24.0,<2.0.0
+pandas>=2.0.0,<2.3.0
+scipy>=1.10.0,<1.14.0
+scikit-learn>=1.3.0,<1.6.0
+
+# Visualization
+matplotlib>=3.7.0,<3.10.0
+seaborn>=0.12.0,<0.14.0
+
+# Config + utilities
+pyyaml>=6.0,<7.0
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+
+# Optional: statistical testing helpers
+statsmodels>=0.14.0,<0.15.0
+
+# Dev / testing (install with: pip install -r requirements.txt -r requirements-dev.txt)
+# pytest>=7.4.0
+# pytest-cov>=4.1.0

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "TCE: Quantifying Explanation Stability in Stance Detection via Target-Conditioned Explainability"
+authors:
+  - family-names: "Tirlangi"
+    given-names: "Rakesh"
+  - family-names: "Samineni"
+    given-names: "Bhavani"
+version: "1.0.0"
+date-released: "2026-05-15"
+repository-code: "https://github.com/RakeshTirlangi/Target-Conditioned-Explainability"
+license: MIT
+keywords:
+  - stance-detection
+  - explainability
+  - SHAP
+  - XAI
+  - NLP
